@@ -1,0 +1,45 @@
+@media (max-width: 788px) {
+    /*======CONTEINERS ==============================*/
+        .container {
+            display: flex;
+            flex-direction: column;
+        }
+    /*====== TITLE ==============================*/
+    .content-title {
+        display: none;
+    }
+
+/*====== FORMULÁRIO ==============================*/
+    .content-form-login {
+        min-width: 320px;
+        width: 60%;
+        height: 60%;
+        margin: auto;
+        padding-inline: 20px;
+        border-radius: 8px;
+        justify-content: initial;
+        padding-top: 40px;
+    }
+
+    .content-form-login .logo {
+        max-width: 100px;
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    .content-form-login .enter-button-google {
+        max-width: 290px;
+        margin-bottom: 30px;
+    }
+
+    .content-form-login .enter-button-google span {
+        font-size: 1.4rem;
+    }
+
+    .content-form-login .content-line .line-left,
+    .content-form-login .content-line .line-right {
+    width: 36px;
+    height: 1px;
+    background-color: var(--border);
+}
+}

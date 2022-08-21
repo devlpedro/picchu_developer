@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-size: 62.5%;
+    --purple-bg: #835AFD;
+    --purple-bg-hover: #6F4BD8;
+    --white-bg: #F8F8F8;
+    --border: #A8A8B3;
+    --border-hover: #7E7E86;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Tamanho de fonte global */
+body, button, .button {
+    font-size: clamp(14px, 1.6rem, 2vw);
+}
+
+.wrapper {
+    max-width: 658px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.content-form-login form label.sr-only{
+    position: absolute;
+    height: 1px;
+    width: 1px;
+    padding: 0;
+    margin: -1;
+    overflow: hidden;
+    clip-path: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+}
