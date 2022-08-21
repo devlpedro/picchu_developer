@@ -11,9 +11,7 @@
 
 /*====== FORMULÁRIO ==============================*/
     .content-form-login {
-        min-width: 320px;
-        width: 60%;
-        height: 60%;
+        width: 100%;
         margin: auto;
         padding-inline: 20px;
         border-radius: 8px;
