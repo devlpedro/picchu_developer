@@ -1,8 +1,4 @@
 @media (max-width: 788px) {
-    body {
-        overflow-x: hidden;
-    }
-
     /*======CONTEINERS ==============================*/
     .container {
         display: flex;
