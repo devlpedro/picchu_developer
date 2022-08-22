@@ -178,20 +178,3 @@
     line-height: 19px;
     color: var(--white-bg);
 }
-
-
-
-
-
-/* .content-form-login form .form-input-global input[type="password"] {
-    background-image: url("/assets/image/eye-normal.svg");
-    background-repeat: no-repeat;
-    background-position: 98% center;
-    cursor: pointer;
-}
-
-.content-form-login form .form-input-global input[type="password"]:focus {
-    background-image: url("/assets/image/eye-hover.svg");
-    background-repeat: no-repeat;
-    background-position: 98% center;
-} */
