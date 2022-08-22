@@ -144,8 +144,10 @@
 }
 
 .content-form-login form .form-input-global .eyes {
+    max-width: 20px;
+    width: 100%;
     position: absolute;
-    top: 36%;
+    top: 40%;
     right: 3%;
 }
 
