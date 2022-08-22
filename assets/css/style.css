@@ -72,17 +72,24 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 8px;
     cursor: pointer;
     margin-bottom: 40px;
     outline: none;
+}
+
+.content-form-login .enter-button-google a {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
 }
 
 .content-form-login .enter-button-google:hover {
     border: 1px solid var(--border-hover);
 }
 
-.content-form-login .enter-button-google span {
+.content-form-login .enter-button-google a span {
     font-size: 1.6rem;
     font-weight: 500;
     line-height: 19px;
