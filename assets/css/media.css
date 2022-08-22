@@ -1,10 +1,13 @@
 @media (max-width: 788px) {
+    body {
+        overflow-x: hidden;
+    }
+
     /*======CONTEINERS ==============================*/
     .container {
         display: flex;
         flex-direction: column;
         background-color: var(--white-bg);
-        overflow: hidden;
     }
     /*====== TITLE ==============================*/
     .content-title {
