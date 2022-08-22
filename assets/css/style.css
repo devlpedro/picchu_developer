@@ -178,3 +178,25 @@
     line-height: 19px;
     color: var(--white-bg);
 }
+
+/* PAGE REGISTRY */
+
+.container .content-form-login form p {
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 16px;
+}
+
+.container .content-form-login form p a {
+    color: #E559F9;
+    text-decoration: underline;
+}
+
+.content-form-login h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 2.4rem;
+    line-height: 36px;
+    color: #29292E;
+    margin-bottom: 24px;
+}
