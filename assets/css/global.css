@@ -16,6 +16,7 @@ html {
     --white-bg: #F8F8F8;
     --border: #A8A8B3;
     --border-hover: #7E7E86;
+    height: 100%;
 }
 
 body {
