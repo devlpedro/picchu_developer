@@ -144,7 +144,9 @@
     align-items: center;
     color: rgb(245, 73, 73);
     font-size: 1.3rem;
-
+    background-image: url("/assets/image/error.svg");
+    background-repeat: no-repeat;
+    background-position: 98% 50%;
 }
 
 .content-form-login form .form-input-global input {
