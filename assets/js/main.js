@@ -49,7 +49,7 @@ function validateField(field) {
                 valueMissing: "Por favor, preencha esse campo"
             },
             email: {
-                valueMissing: "Email é obrigatório",
+                valueMissing: "Email obrigatório",
                 typeMismatch: "Por favor, preencha um email válido"
             },
             password: {
