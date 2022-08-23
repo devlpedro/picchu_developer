@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻 Páginas de login - Pedro Henrique
+  💻 Picchu Registry - Pedro Henrique
 </h1>
 
 ![Resultado final do projeto](assets/design/imagem-da-tela-login.png)
