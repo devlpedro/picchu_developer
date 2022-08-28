@@ -4,7 +4,7 @@
 
 ![Resultado final do projeto](assets/design/imagem-da-tela-login.png)
 
-<h4 align="center"><a href="https://grand-rolypoly-ddcba8.netlify.app/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://grand-rolypoly-ddcba8.netlify.app/">Clique para visitar o projeto!</a></h4>
 
 ## 📚 Seções
 O site é composto por duas seções:
