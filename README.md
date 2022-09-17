@@ -2,7 +2,7 @@
   💻 Picchu Registry - Pedro Henrique
 </h1>
 
-![preview](./.github/preview.png)
+<img src="./.github/preview.png" alt="preview">
 
 <h4 align="center"><a href="https://grand-rolypoly-ddcba8.netlify.app/">Clique para visitar o projeto!</a></h4>
 
